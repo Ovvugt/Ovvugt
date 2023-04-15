@@ -3,7 +3,6 @@
 I'm a Dutch developer and 3rd year BSc Computer Science student.
 
 ### Things I work with
-Warning: Proficiency possibly limited.
 
 <img align="left" alt="" width="30px" src="https://static.cdnlogo.com/logos/c/27/c.svg" />
 <img align="left" alt="" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" />
