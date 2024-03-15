@@ -1,6 +1,6 @@
 # Oscar van Vugt
 
-I'm a Dutch developer and 3rd year BSc Computer Science student.
+I'm a Dutch developer and 4th year BSc Computer Science student.
 
 ### Things I work with
 
