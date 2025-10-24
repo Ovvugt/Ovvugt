@@ -1,6 +1,6 @@
 # Oscar van Vugt
 
-I'm a Dutch developer and 4th year BSc Computer Science student.
+I am a Dutch Fullstack Software Engineer at House of Tickets.
 
 ### Things I work with
 
