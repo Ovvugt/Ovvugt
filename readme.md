@@ -16,7 +16,3 @@ I am a Dutch Fullstack Software Engineer at House of Tickets.
 <img align="left" alt="" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
 <img align="left" alt="" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
 <img alt="" height="30px" src="https://upload.wikimedia.org/wikipedia/en/f/f4/Docker_logo.svg" />
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ovvugt&layout=compact&theme=radical)
